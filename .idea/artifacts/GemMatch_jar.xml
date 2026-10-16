@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GemMatch.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GemMatch.jar</output-path>
+    <root id="archive" name="GemMatch.jar">
+      <element id="module-output" name="GemMatch" />
+    </root>
+  </artifact>
+</component>
