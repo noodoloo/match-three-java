@@ -23,4 +23,5 @@ Extras:
 
 Known Bugs:
 - There might be a bug that happens when a cascade happens. If a 3 match falls onto another 3 match that forms an "L" shape, the two top most gems of the ones that fell stay. I'm not sure if this is a bug or the animation being kind of instant and 2 of that specific gem were just randomly generated as well to fill that space. 
-- There is also a bug that happens with when you progress to the next level. Sometimes the multiplier instead of showing a clean number, will sometimes show a number with multiple repeating numbers. I'm assuming it has something to do with the floater point math for the nerfing of the multiplier being a little wonky. 
+- There is also a bug that happens with when you progress to the next level. Sometimes the multiplier instead of showing a clean number, will sometimes show a number with multiple repeating numbers. I'm assuming it has something to do with the floater point math for the nerfing of the multiplier being a little wonky.
+- There is a bug with the sound that's supposed to play when you get any match as well. The file is in the src folder that was specified but it doesn't work.
